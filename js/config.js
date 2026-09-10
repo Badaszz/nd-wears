@@ -9,7 +9,7 @@
 
 const STORE = {
   name: "Nadia's Wears",
-  whatsappNumber: "0916959823".replace(/[^0-9]/g, ""), // digits only, no + or spaces
+  whatsappNumber: "09166959823".replace(/[^0-9]/g, ""), // digits only, no + or spaces
   email: "mathewelizabeth299@gmail.com",
 };
 
