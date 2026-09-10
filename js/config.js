@@ -37,21 +37,21 @@ const PRODUCTS = [
     category: "jeans",
     name: "Straight Fit Denim",
     price: "₦0,000",
-    image: "",
+    image: "images/img1.jpeg",
   },
   {
     id: "jeans-02",
     category: "jeans",
     name: "Slim Taper Jeans",
     price: "₦0,000",
-    image: "",
+    image: "images/img2.jpeg",
   },
   {
     id: "jeans-03",
     category: "jeans",
     name: "Wide Leg Denim",
     price: "₦0,000",
-    image: "",
+    image: "images/img3.jpeg",
   },
 
   // ---- POLOS ----
@@ -60,21 +60,21 @@ const PRODUCTS = [
     category: "polos",
     name: "Classic Pique Polo",
     price: "₦0,000",
-    image: "",
+    image: "images/img4.jpeg",
   },
   {
     id: "polo-02",
     category: "polos",
     name: "Long Sleeve Polo",
     price: "₦0,000",
-    image: "",
+    image: "images/img5.jpeg",
   },
   {
     id: "polo-03",
     category: "polos",
     name: "Ribbed Collar Polo",
     price: "₦0,000",
-    image: "",
+    image: "images/img6.jpeg",
   },
 
   // ---- HOODIES ----
@@ -83,21 +83,21 @@ const PRODUCTS = [
     category: "hoodies",
     name: "Essential Pullover Hoodie",
     price: "₦0,000",
-    image: "",
+    image: "images/img7.jpeg",
   },
   {
     id: "hoodie-02",
     category: "hoodies",
     name: "Zip-Up Hoodie",
     price: "₦0,000",
-    image: "",
+    image: "images/img8.jpeg",
   },
   {
     id: "hoodie-03",
     category: "hoodies",
     name: "Oversized Hoodie",
     price: "₦0,000",
-    image: "",
+    image: "images/img9.jpeg",
   },
 ];
 
